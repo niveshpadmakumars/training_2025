@@ -20,7 +20,5 @@ const person = {
     }
 };
 
-// Usage examples
-console.log("Sum:", add(5, 7)); // 12
-console.log("Even numbers:", evens); // [2, 4, 6]
+// Usage example
 person.greet(); // Hello, my name is Alice.
